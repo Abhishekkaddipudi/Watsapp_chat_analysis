@@ -3,5 +3,5 @@ COPY . /homepage
 WORKDIR /homepage
 RUN pip install -r requirements.txt
 EXPOSE $PORT
-CMD streamlit run homepage.py --server.port $PORT
+CMD streamlit run homepage.py -server.fileWatcherType none
 
