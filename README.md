@@ -1,4 +1,11 @@
 # WhatsApp Chat Analysis Project
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/)
+
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+
+[Link for the app](https://watsapp-analysis.onrender.com/)
+
+[Analysis jupyter file](https://github.com/Abhishekkaddipudi/Watsapp_chat_analysis/edit/main/README.md)
 
 ## Overview
 
