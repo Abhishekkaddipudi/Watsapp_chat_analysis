@@ -5,7 +5,7 @@
 
 [Link for the app](https://watsapp-analysis.onrender.com/)
 
-[Analysis jupyter file](https://github.com/Abhishekkaddipudi/Watsapp_chat_analysis/edit/main/README.md)
+[Analysis jupyter file](https://github.com/Abhishekkaddipudi/Watsapp_chat_analysis/blob/main/Analysis.ipynb)
 
 ## Overview
 
